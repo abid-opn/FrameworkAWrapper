@@ -20,6 +20,6 @@ let package = Package(
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
-        .binaryTarget(name: "FrameworkA", url: "https://tmpfiles.org/dl/117511/frameworka.zip", checksum: "9c81c4a0f462e46853891cee1ec6bb598eb708e7b19bbbb03f403033c706987c")
+        .binaryTarget(name: "FrameworkA", path: "artifacts/FrameworkA.xcframework")
     ]
 )
