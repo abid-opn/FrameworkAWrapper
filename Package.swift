@@ -13,7 +13,7 @@ let package = Package(
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
             name: "FrameworkAWrapper",
-            targets: ["FrameworkA"]),
+            targets: ["FrameworkA", "FrameworkADependencies"]),
     ],
     dependencies: [
         .package(name: "FrameworkB", url: "git@github.com:abid-opn/FrameworkB.git", from: "0.1.0")
