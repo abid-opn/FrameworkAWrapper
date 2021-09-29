@@ -4,18 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/FrameworkB.framework/FrameworkB</key>
-		<data>
-		LsoFPaYWSFx1EWUSO2Vvrobc240=
-		</data>
-		<key>Frameworks/FrameworkB.framework/Info.plist</key>
-		<data>
-		WD7F3eFVV8o4L8zeiD96Kr6a8oE=
-		</data>
-		<key>Frameworks/FrameworkB.framework/_CodeSignature/CodeResources</key>
-		<data>
-		PMngckz7LjYE7VFhEAtwRI8VPEk=
-		</data>
 		<key>Headers/FrameworkA-Swift.h</key>
 		<data>
 		brEeHC0ZdIKwnzcCYPyRjSg23S0=
@@ -75,27 +63,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/FrameworkB.framework/FrameworkB</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			a7Z2Mk3mai7a6HYJXDHEdGj3s/Llj7o1NU58v3rp/Y0=
-			</data>
-		</dict>
-		<key>Frameworks/FrameworkB.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4dh0SsJWVbxPeE9AB/2sLVXLBl4u3bNqqbQSlvt84CE=
-			</data>
-		</dict>
-		<key>Frameworks/FrameworkB.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			lfXtZ8lWFfMRigGu3ebViq/HMceqv+4/9KvdBm/j+6g=
-			</data>
-		</dict>
 		<key>Headers/FrameworkA-Swift.h</key>
 		<dict>
 			<key>hash2</key>
