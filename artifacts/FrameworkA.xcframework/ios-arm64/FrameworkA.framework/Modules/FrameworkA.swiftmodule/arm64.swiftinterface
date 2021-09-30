@@ -4,7 +4,9 @@
 import Foundation
 import FrameworkB
 import Swift
+import UIKit
 @_hasMissingDesignatedInitializers public class FrameworkA {
   public static func use()
+  public func getImage() -> UIKit.UIImage?
   @objc deinit
 }

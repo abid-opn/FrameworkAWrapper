@@ -16,7 +16,7 @@ let package = Package(
             targets: ["FrameworkATarget"]),
     ],
     dependencies: [
-        .package(name: "FrameworkBWrapper", url: "git@github.com:abid-opn/FrameworkBWrapper.git", from: "0.1.0")
+        .package(name: "FrameworkBWrapper", url: "git@github.com:abid-opn/FrameworkBWrapper.git", .branch("master"))
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
